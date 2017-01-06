@@ -1,0 +1,1 @@
+/* Blank JS Script added to admin pages*/
